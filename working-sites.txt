@@ -1,5 +1,6 @@
 Currently works on sites:
 nytimes
+theatlantic
 
 does not work on sites:
 bloomberg - uses captcha to verify that user is a person not a bot
