@@ -1,0 +1,9 @@
+Currently works on sites:
+nytimes
+
+does not work on sites:
+bloomberg - uses captcha to verify that user is a person not a bot
+coursehero - locks contents in a separate page from google results or from obscured results
+chegg - locks contents in a separate page from google results or from obscured results
+
+testing done with ublock running as an extension on other news sites. If ads show up on sides that don't use a paywall, use a ad-blocker.
